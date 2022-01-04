@@ -19,7 +19,8 @@ h2{
    
     width:50%;
     padding-left: 5%;
-}.box img{
+}
+.box img{
     width: 80%;
 }
 .box a{
@@ -39,4 +40,35 @@ h2{
 }
 .dream_big p{
     padding-right:20%;
+}
+.box2{
+   
+    width:50%;
+    padding-left: 5%;
+    padding-bottom: 80px;
+    padding-left: 30px;
+    margin-right: 4%;
+    margin-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+   
+    
+
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#web_baby{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#web_boss{
+    border-left: 7px solid;
+    border-image:linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    color:gray;
 }
